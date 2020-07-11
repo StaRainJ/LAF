@@ -1,9 +1,9 @@
-# LAF: "Robust Feature Matching for Remote Sensing Image Registration via Linear Adaptive Filtering" （ICASSP2019;TGRS2020）
+## LAF: "Robust Feature Matching for Remote Sensing Image Registration via Linear Adaptive Filtering" （ICASSP2019;TGRS2020）
 
 
  
  
-# Please cite this paper if you use the code in this repository as part of a published research project.
+## Please cite this paper if you use the code in this repository as part of a published research project.
 
 @article{jiang2020robust,
   title={Robust Feature Matching for Remote Sensing Image Registration via Linear Adaptive Filtering},
