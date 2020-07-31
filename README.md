@@ -1,9 +1,9 @@
 ## LAF: "Robust Feature Matching for Remote Sensing Image Registration via Linear Adaptive Filtering" （ICASSP2019;TGRS2020）
 
-# The proposed progressive filtering framework for robust feature matching
+1.The proposed progressive filtering framework for robust feature matching:
  ![FrameworkFig](https://github.com/StaRainJ/LAF/blob/master/Fig/StructureFig.png)
  
-# Registration Results
+2. Registration Results:
  ![Registration Results](https://github.com/StaRainJ/LAF/blob/master/Fig/RegResults.png)
  
 ## Please cite this paper if you use the code in this repository as part of a published research project.
